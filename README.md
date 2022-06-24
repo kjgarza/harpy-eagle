@@ -1,2 +1,2 @@
 # harpy-eagle
-Terraform configurations
+Terraform configurations for projects
